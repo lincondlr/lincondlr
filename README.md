@@ -14,14 +14,14 @@
   <img align="center" alt="Lincon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lincon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lincon-PHP" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg'>
-  <img align="center" alt="Lincon-AngularJS" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'>
+<!--   <img align="center" alt="Lincon-AngularJS" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'> -->
   <img align="center" alt="Lincon-Graphql" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'>
   <img align="center" alt="Lincon-MongoDB" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg'>
   <img align="center" alt="Lincon-Redis" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg'>
   <img align="center" alt="Lincon-MySQL" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'>
   <img align="center" alt="Lincon-Docker" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg'>
-  <img align="center" alt="Lincon-Heroku" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg'>
-  <img align="center" alt="Lincon-GoogleCloud" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg'>
+<!--   <img align="center" alt="Lincon-Heroku" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg'> -->
+<!--   <img align="center" alt="Lincon-GoogleCloud" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg'> -->
 </div>
 
 ##
