@@ -18,7 +18,7 @@
   <img align="center" alt="Lincon-Graphql" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'>
   <img align="center" alt="Lincon-MongoDB" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg'>
   <img align="center" alt="Lincon-Redis" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg'>
-  <img align="center" alt="Lincon-MySQL" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'>
+<!--   <img align="center" alt="Lincon-MySQL" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg'> -->
   <img align="center" alt="Lincon-Docker" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg'>
 <!--   <img align="center" alt="Lincon-Heroku" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg'> -->
 <!--   <img align="center" alt="Lincon-GoogleCloud" height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg'> -->
